@@ -25,6 +25,10 @@ Follow these simple steps to get Sniper Mode up and running:
 
      `yarn install`
 
+# Remember to start the bot from the build folder with the follwoing command
+
+- `node main.js`
+
 ## 📖 Verbose Manual
 
 For an in-depth guide on how to use the app, head over to `Sniper Mode` => `usage`. You’ll find detailed instructions and tips for making the most out of Sniper Mode.
