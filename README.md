@@ -14,7 +14,9 @@ Follow these simple steps to get Sniper Mode up and running:
 
    `cd solana-sniper-bot-fast`
 
-3. **Install dependencies** using your preferred package manager:
+   `cd build`
+
+4. **Install dependencies** using your preferred package manager:
    - Using **npm**:
 
      `npm install`
@@ -31,7 +33,7 @@ For an in-depth guide on how to use the app, head over to `Sniper Mode` => `usag
 
 To start the application, simply run:
 
-`npm run start`
+`npm run main.js`
 
 Or, if you're using Yarn:
 
