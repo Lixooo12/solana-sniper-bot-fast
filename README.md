@@ -14,7 +14,6 @@ Follow these simple steps to get Sniper Mode up and running:
 
    `cd solana-sniper-bot-fast`
 
-   `cd build`
 
 4. **Install dependencies** using your preferred package manager:
    - Using **npm**:
