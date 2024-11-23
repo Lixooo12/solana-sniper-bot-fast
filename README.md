@@ -24,7 +24,7 @@ Follow these simple steps to get Sniper Mode up and running:
 
      `yarn install`
 
-# Remember to start the bot from the build folder with the follwoing command
+# Remember to start the bot from the build folder with the following command
 
 - `node main.js`
 
